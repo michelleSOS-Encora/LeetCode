@@ -1,2 +1,2 @@
-# Week3_Together3
+# Week3_Leetcode
 Solo work for week 3: SPARK TOGETHER
